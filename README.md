@@ -1,12 +1,9 @@
-**movements** <br>
+#movements# <br>
 this website uses "mousemove" in Javascript to create an effect that alters four images ... <br>
-See for yourself!
 
 ![screenshot of movements website](img/movements.png)
 
-
-
-view in browser:<br>
+See for yourself in your browser:<br>
 https://0000magda0000.github.io/movements/
 <br><br><br>
 
