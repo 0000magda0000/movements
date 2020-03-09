@@ -8,5 +8,5 @@ https://0000magda0000.github.io/movements/
 <br><br><br>
 
 
-*this was done with the help of the superhi tutorial* <br>
+*this was done with the superhi tutorial* <br>
 https://www.superhi.com/video/barron-webster?utm_campaign=0319_vids_ints_v1&utm_medium=fb_inst_social&utm_source=fb_inst
