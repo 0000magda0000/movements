@@ -2,7 +2,7 @@
 this website uses "mousemove" in Javascript to create an effect that alters four images ... <br>
 See for yourself!
 
-![screenshot of movements website] (img/movements.png)
+![screenshot of movements website] (https://github.com/0000magda0000/movements/blob/master/img/movements.png)
 
 
 
