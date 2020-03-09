@@ -1,5 +1,5 @@
-#movements <br>
-this website uses "mousemove" in Javascript to create an effect that alters four images ... <br>
+# movements <br>
+this website uses Javascript "mousemove" to create an effect that alters four images ... <br>
 
 ![screenshot of movements website](img/movements.png)
 
